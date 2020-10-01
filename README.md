@@ -1,5 +1,5 @@
 # Hospital-Managment-System-in-C
-This is my first Project  C language project.
+This is my first Project in C language.
 
 I have successfully completed by First C program
 
